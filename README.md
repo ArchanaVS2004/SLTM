@@ -14,7 +14,7 @@
 [mention your project hosted project link here]
 
 ### Project Description
-[2-3 lines about what your project does]
+Real time Sign language translater in malayalam text to speech
 
 ### The Problem statement
 [What ridiculous problem are you solving?]

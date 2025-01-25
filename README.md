@@ -1,14 +1,14 @@
-# [Project Name] 🎯
+# SLTM 🎯
 
 
 ## Basic Details
-### Team Name: [Name]
+### Team Name: pythons
 
 
 ### Team Members
-- Member 1: [Name] - [College]
-- Member 2: [Name] - [College]
-- Member 3: [Name] - [College]
+  Archana V S - ICCS College of Engineering And Management, Mupliyam
+  Saru S - ICCS College of Engineering And Management, Mupliyam
+  Stiny N S - ICCS College of Engineering And Management, Mupliyam
 
 ### Hosted Project Link
 [mention your project hosted project link here]

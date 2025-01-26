@@ -11,7 +11,7 @@
   Stiny N S - ICCS College of Engineering And Management, Mupliyam
 
 ### Hosted Project Link
-
+https://sltm-git-main-archana-v-ss-projects.vercel.app
 
 ### Project Description
 SignSpeak is designed to bridge communication barriers by translating sign language into real-time text and speech. This innovative solution allows users to view the translated text in both English and Malayalam, with the added capability of generating audio output in both languages, ensuring a seamless and inclusive communication experience.

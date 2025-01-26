@@ -14,31 +14,30 @@
 [mention your project hosted project link here]
 
 ### Project Description
-Real time Sign language translater in malayalam text to speech
-
+SignSpeak is designed to bridge communication barriers by translating sign language into real-time text and speech. This innovative solution allows users to view the translated text in both English and Malayalam, with the added capability of generating audio output in both languages, ensuring a seamless and inclusive communication experience.
 ### The Problem statement
-[What ridiculous problem are you solving?]
-
+Communication barriers faced by individuals who use sign language can significantly hinder their ability to engage in conversations and access essential services. In particular, the lack of real-time, accessible translation tools often prevents smooth interaction between sign language users and those who do not understand sign language. This results in feelings of isolation and limited social interaction.
 ### The Solution
-[How are you solving it? Keep it fun!]
-
+SignSpeak is a solution designed to address these challenges by translating sign language into real-time text and speech. It allows users to see the translated text in both English and Malayalam, ensuring the communication is accessible to a wider audience. Additionally, the system can generate audio output in both languages, facilitating more inclusive and seamless interactions. By providing a multilingual communication platform, SignSpeak aims to empower individuals who rely on sign language to communicate effectively in a world that increasingly depends on verbal and written language
 ## Technical Details
 ### Technologies/Components Used
 For Software:
-- [Languages used]
-- [Frameworks used]
-- [Libraries used]
-- [Tools used]
+- Python
+- Visual Studio
+- Pyhton
+- Tensor Flow , OpenCV
 
 For Hardware:
-- [List main components]
+- Web cam
 - [List specifications]
 - [List tools required]
 
 ### Implementation
 For Software:
 # Installation
-[commands]
+python -m venv venv
+source venv/bin/activate
+
 
 # Run
 [commands]

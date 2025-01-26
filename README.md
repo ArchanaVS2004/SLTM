@@ -11,7 +11,7 @@
   Stiny N S - ICCS College of Engineering And Management, Mupliyam
 
 ### Hosted Project Link
-[mention your project hosted project link here]
+
 
 ### Project Description
 SignSpeak is designed to bridge communication barriers by translating sign language into real-time text and speech. This innovative solution allows users to view the translated text in both English and Malayalam, with the added capability of generating audio output in both languages, ensuring a seamless and inclusive communication experience.
@@ -29,6 +29,8 @@ For Software:
 
 For Hardware:
 - Web cam
+- software
+- 
 - [List specifications]
 -Laptop
 ### Implementation
@@ -45,14 +47,8 @@ source venv/bin/activate
 For Software:
 
 # Screenshots (Add at least 3)
-![Screenshot1](Add screenshot 1 here with proper name)
-*Add caption explaining what this shows*
-
-![Screenshot2](Add screenshot 2 here with proper name)
-*Add caption explaining what this shows*
-
-![Screenshot3](Add screenshot 3 here with proper name)
-*Add caption explaining what this shows*
+https://drive.google.com/drive/folders/1c10nPRJlhEU4VL_7NygC3DGUvqOrCZoG?usp=sharing
+All  files with the screenshots are present in this link
 
 # Diagrams
 ![Workflow](Add your workflow/architecture diagram here)
@@ -69,24 +65,19 @@ For Hardware:
 
 # Build Photos
 ![Team](Add photo of your team here)
+https://drive.google.com/file/d/1tQghUJOK1c3IIV2jHQOraIHewyFevYzT/view?usp=sharing
 
+All  files with the photos are present in this link
+https://drive.google.com/drive/folders/1c10nPRJlhEU4VL_7NygC3DGUvqOrCZoG?usp=sharing
 
-![Components](Add photo of your components here)
-*List out all components shown*
-
-![Build](Add photos of build process here)
-*Explain the build steps*
-
-![Final](Add photo of final product here)
-*Explain the final build*
 
 ### Project Demo
 # Video
 [Add your demo video link here]
-*Explain what the video demonstrates*
+https://drive.google.com/file/d/1fmiYtugQa6X_g8TNxF5kRZw2BGrXo0lW/view?usp=sharing
 
 # Additional Demos
-[Add any extra demo materials/links]
+https://drive.google.com/drive/folders/1c10nPRJlhEU4VL_7NygC3DGUvqOrCZoG?usp=sharing
 
 ## Team Contributions
 - Saru S: Sign language recognision

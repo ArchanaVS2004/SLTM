@@ -30,8 +30,7 @@ For Software:
 For Hardware:
 - Web cam
 - [List specifications]
-- [List tools required]
-
+-Laptop
 ### Implementation
 For Software:
 # Installation

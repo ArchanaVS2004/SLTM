@@ -89,9 +89,9 @@ For Hardware:
 [Add any extra demo materials/links]
 
 ## Team Contributions
-- [Name 1]: [Specific contributions]
-- [Name 2]: [Specific contributions]
-- [Name 3]: [Specific contributions]
+- Saru S: Sign language recognision
+- Archana V S : English to Malayalam translation
+- Stiny N S: Malayalam text to speech
 
 ---
 Made with ❤️ at TinkerHub
